@@ -1,10 +1,11 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/KirkoJayy">Programmer</a>, <a href="https://www.linkedin.com/in/jameskirk24/">IT & Cybersecurity Professional</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm James! <br/><a href="https://github.com/KirkoJayy" <a href="https://www.linkedin.com/in/jameskirk24/">IT & Cybersecurity Professional</a>
+<h2>👨‍💻 IT / Cloud / SysAdmin / Cybersecurity Projects:</h2>
 
-- <b>VirtualBox & PowerShell</b>
-  - [JWipe (Disk Wiping Utility)]()
+- <b>Active Directory Domain Services Administration (Virtualization + PowerShell Automation)</b>
   - [Active Directory HomeLab with Bulk User Creation](https://github.com/KirkoJayy/ActiveDirectory-Lab/tree/main)
-  - [FIM (File Integrity Monitor)]()
+
+- <b>Identity Access & Management
+  - [IAM Protocol Implementation Lab](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/tree/main)
  
 <h2> 📝 Certifications </h2>
 
@@ -13,11 +14,7 @@
 - Splunk Core Certified User (https://www.credly.com/badges/7deebcd6-80ac-4fa6-bf89-724715d8afd7/public_url)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/jameskirk24
+https://linkedin.com/in/jameskirk24
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
