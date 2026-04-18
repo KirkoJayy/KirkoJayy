@@ -13,8 +13,9 @@
 
 - Splunk Core Certified User (https://www.credly.com/badges/7deebcd6-80ac-4fa6-bf89-724715d8afd7/public_url)
 
-<h2> 🤳 Connect with me:</h2>
-https://linkedin.com/in/jameskirk24
+<h2> 🌐 Connect With Me </h2> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameskirk-tech)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
