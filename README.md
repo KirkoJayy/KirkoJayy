@@ -6,6 +6,7 @@
 
 - <b>Identity Access & Management
   - [IAM Protocol Implementation Lab](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/tree/main)
+  - [IAM JML Lifecycle Implementation Lab](https://github.com/KirkoJayy/iga-jml-automation-midpoint/tree/main)
  
 <h2> 📝 Certifications </h2>
 
