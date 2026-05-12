@@ -8,6 +8,9 @@
   - [IAM Protocol Implementation Lab](https://github.com/KirkoJayy/IAM-Protocol-Implementation-Lab/tree/main)
   - [IAM JML Lifecycle Implementation Lab](https://github.com/KirkoJayy/iga-jml-automation-midpoint/tree/main)
  
+- <b>Systems Administation (Linux/Cloud)
+  - [CloudArmor – Secure Cloud Infrastructure Capstone](https://github.com/KirkoJayy/Cloud-Infrastructure-Linux/tree/main)
+ 
 <h2> 📝 Certifications </h2>
 
 - CompTIA Security+ (https://www.credly.com/badges/881885d6-bd3d-4a0e-99a5-8ebcc50a29b3/public_url)
